@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Flutter, NodeJs, Firebase.
 - 👯 I’m looking to collaborate on projects in Machine/ Deep Learning.
 - 💬 Open for discussions and learning new tech related stuff
-- 📫 How to reach me: [LinkedIn](hhttps://www.linkedin.com/in/shubhampandit00/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhampandit00/)
 - 😄 Pronouns: He/His
 - ⚡ Trying to enter the field of CyberSecurity
 
@@ -43,3 +43,5 @@
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Shubh0O00&show_icons=true&locale=en&layout=compact&theme=dark&line_height=0" />
 </p> 
+
+</br>
