@@ -7,13 +7,12 @@
   </p> 
 </p>
 
-- 🔭 I’m currently working on enhancing my skills in alogrithms on LeetCode.
+- 🔭 I’m currently working on enhancing my skills in alogrithms and data structure on LeetCode.
 - 🌱 I’m currently learning Flutter, NodeJs, Firebase.
-- 👯 I’m looking to collaborate on projects in Machine/ Deep Learning.
-- 💬 Open for discussions and learning new tech related stuff
+- 👯 I’m looking to collaborate on projects in Machine/Deep Learning.
+- 💬 Open for discussions and learning new tech.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shubhampandit00/)
-- 😄 Pronouns: He/His
-- ⚡ Trying to enter the field of CyberSecurity
+- ⚡ Trying to learn and explore the field of cybersecurity
 
 </br>
 
